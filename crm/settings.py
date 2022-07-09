@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-znu@4kle0sd$d%n=rea^-dyf1fcvk3c^smfn!u1x1i#xf^%cp1
 DEBUG = True
 
 # ALLOWED_HOSTS = ['127.0.0.1', 'customer-record-management.herokuapp.com']
-ALLOWED_HOSTS = ['127.0.0.1','student-feedback-platform-1.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','shopping863.herokuapp.com']
 
 
 # Application definition
