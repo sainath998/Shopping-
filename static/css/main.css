@@ -1,0 +1,67 @@
+.container-fluid {
+    margin-top: 1rem;
+}
+
+.navbar {
+    background-color: rgb(255, 227, 236);
+}
+
+#navbarNav a {
+    color: rgb(236, 37, 90);
+}
+
+#total-orders {
+    background-color: rgb(242, 120, 159);
+}
+
+#orders-delivered {
+    background-color: rgb(249, 153, 183);
+}
+
+#orders-pending {
+    background-color: rgb(249, 197, 213);
+}
+
+/* .btn {
+    background-color: rgb(249, 153, 183);
+    border-color: rgb(249, 153, 183);;
+}
+
+.btn:hover {
+    background-color: rgb(242, 120, 159);
+    border-color: rgb(249, 153, 183);;
+} */
+
+.contact-info {
+    text-align: center;
+}
+
+.contact-info p {
+    text-align: left;
+}
+
+.span-item {
+    font-weight: bold;
+}
+
+.search-bar {
+    margin-top: 1rem;
+}
+
+
+.register-form {
+    display: none;
+}
+
+.table-head {
+    width: 100%;
+    text-align: center;
+
+    font-size: 1.2rem;
+
+    padding: .2rem;
+
+    border-radius: 5px;
+
+    background-color: rgb(242, 120, 159);
+}

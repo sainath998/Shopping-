@@ -1,0 +1,13 @@
+{% extends "accounts/main.html" %}
+{% load static %}
+
+
+{% block content %}
+    <div class="container-fluid">
+        <form action="" method="post">
+            {% csrf_token %}
+            {{orderForm}}
+            <button type="submit" class="btn btn-success">Submit</button>
+        </form>
+    </div>
+{% endblock %}
